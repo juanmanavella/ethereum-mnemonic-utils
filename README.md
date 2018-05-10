@@ -7,6 +7,8 @@ Modularity and extensibility were sacrificed to keep the code as simple and line
 
 Logic adapted from https://github.com/satoshilabs/slips/blob/master/slip-0010/testvectors.py and https://github.com/trezor/python-mnemonic.
 
+Requires python 3 and pip 3
+
 ### Requirements
 
 `pip install base58 ecdsa`
